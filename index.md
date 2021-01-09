@@ -1,14 +1,14 @@
 # CSE 110 Lab1
 ## Welcome to GitHub Pages
 
-### Styling text
+### Styling Text
 **This is bold text**\
 *This text is italicized*\
 ~~This was mistaken text~~\
 **This is _Bold_and_nested_italic_**\
 ***All bold and italic***
 
-### Quoting text
+### Quoting Text
 
 Use `git status` to list all new or modified files that haven't yet been committed.\
 
@@ -21,4 +21,6 @@ git commit
 ### Links
 Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/courses/21783/assignments/255474).
 
-[Styling text](#4)
+[Styling Text](#4)
+
+[a relative link](index.md)
