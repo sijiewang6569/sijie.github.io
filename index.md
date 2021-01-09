@@ -47,6 +47,9 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 ### IMAGE
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
 
+### Emoji
+Good job :+1:
+
 ### Table
 |Column 1|Column 2|Column 3|
 |---|---|---|
