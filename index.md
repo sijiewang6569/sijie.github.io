@@ -33,3 +33,8 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 1. happy
 2. sad
 3. excited
+
+#### Nested Lists
+1. First list item
+   - First nested list item
+    - Second nested list item
