@@ -1,7 +1,7 @@
 # CSE 110 Lab1
 ## Welcome to GitHub Pages
 
-### Styling Text
+### [Styling Text](#Styling-Text)
 **This is bold text**\
 *This text is italicized*\
 ~~This was mistaken text~~\
