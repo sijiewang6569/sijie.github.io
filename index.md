@@ -21,9 +21,9 @@ git commit
 ### Links
 Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/courses/21783/assignments/255474).
 
-[Styling Text](#4)
+[Styling Text](#Styling Text)
 
-[a relative link](index.md)
+[A Relative Link](index.md)
 
 ### Lists
 - Apple
