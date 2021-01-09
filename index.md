@@ -1,5 +1,5 @@
 # CSE 110 Lab1
-## Welcome to GitHub Pages
+## Markdown
 
 ### [Styling Text](#Styling-Text)
 **This is bold text**\
@@ -10,7 +10,7 @@
 
 ### [Quoting Text](#Quoting-Text)
 
-Use `git status` to list all new or modified files that haven't yet been committed.\
+Use `git status` to list all new or modified files that haven't yet been committed.
 
 Some basic Git commands are:
 ```
