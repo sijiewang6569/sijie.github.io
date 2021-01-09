@@ -46,3 +46,9 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 
 ### IMAGE
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+
+### Table
+|Column 1|Column 2|Column 3|
+|---|---|---|
+|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|
+|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
