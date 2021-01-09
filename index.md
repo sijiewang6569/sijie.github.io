@@ -38,3 +38,11 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 1. First list item
    - First nested list item
      - Second nested list item
+     
+### TASK Lists
+- [x] CSE 101 Assigment1
+- [x] CSE 140 Assigment1
+- [ ] CSE 110 Lab1
+
+### IMAGE
+![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
