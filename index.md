@@ -37,4 +37,4 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 #### Nested Lists
 1. First list item
    - First nested list item
-    - Second nested list item
+     - Second nested list item
