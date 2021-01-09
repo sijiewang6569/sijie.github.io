@@ -24,3 +24,12 @@ Useful Markdown skills in [GitHub Flavored Markdown](https://canvas.ucsd.edu/cou
 [Styling Text](#4)
 
 [a relative link](index.md)
+
+### Lists
+- Apple
+- Orange
+- Banana
+
+1. happy
+2. sad
+3. excited
